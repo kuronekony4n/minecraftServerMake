@@ -28,7 +28,7 @@ Make sure you already does everything on TUTORIAL 2 before proceeding.
 1. Input worldname you want to run the server.
 2. Visit [ngrok website](https://ngrok.com), login or make new account if you don't have. After logged in, open [this page](https://dashboard.ngrok.com/auth/your-authtoken) and copy paste your Authtoken to **ngrok_authtoken** form.
 3. Run the cell
-4. Wait until you see server log like this and your server is online.
+4. Wait until you see your server is online.
 
 ---
 ### (TUTORIAL 4) Connect to your server
@@ -38,3 +38,4 @@ Make sure your server is online.
 3. Locate your tunnel and copy paste the URL to your Minecraft game server address. (without **tcp://**)
 4. Connect to your server.
 ---
+[Contact me on facebook](https://facebook.com/addstring) or make an issue in [github](https://github.com/kuronekony4n/minecraftServerMake/issues) if you have other problem.
